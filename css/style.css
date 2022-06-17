@@ -6,6 +6,7 @@ body {
 
 h3 {
   font-size: 20px;
+  color: hsl(218, 44%, 22%);
 }
 
 p {
@@ -21,7 +22,7 @@ p {
 .out-box {
   background-color: hsl(0, 0%, 100%);
   width: 20%;
-  height: fit-content;
+  height: ;
   border-radius: 4%;
   margin: 150px auto;
   text-align: center;
